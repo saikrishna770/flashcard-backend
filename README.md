@@ -23,3 +23,16 @@ A simple backend service for managing flashcards.
    ```bash
    git clone https://github.com/saikrishna770/flashcard-backend.git
    cd flashcard-backend
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the app:
+
+   ```bash
+   python app.py
+   ```
